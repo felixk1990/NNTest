@@ -1,0 +1,5 @@
+Pclass
+Sex
+SibSp
+Fare_group
+Title
