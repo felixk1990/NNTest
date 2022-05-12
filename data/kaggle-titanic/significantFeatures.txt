@@ -2,4 +2,6 @@ Pclass
 Sex
 SibSp
 Fare_group
+Embarked
+Age_group
 Title
